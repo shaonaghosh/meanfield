@@ -4,6 +4,6 @@ Paper Link:JMLR (ICML) W&CP for MLIS is available at http://jmlr.org/proceedings
 
 
 Dependency:
-Matlab 2013b
+Matlab 2013b. Uses Matlab toolboxes 'combinator' by  Matt Fig and 'allcomb' by Jos.
 
 The main script is mainwithapprox.m. Try running it with the synthetic graphs (available in the graphdata repository) or the simulated data included with this repository. Can be tested on Webspam Dataset, UCI Irvine USPS and Isolet datasets (available in the graphdata repository). 
